@@ -1,2 +1,0 @@
-# stringDB
-for test
